@@ -1,0 +1,81 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (min-width:200px) and (max-width:600px) {
+.mobile_menu2{ display:block; position:absolute; z-index:99; top:15px; left:10px;}
+#logo{ width:60%; margin:auto;}
+#logo img{ width:100%; margin-top:8px;}
+.mobile_menu1{ display:block;}
+.destop_menu1{ display:none;}
+#top_box{width:100%;margin:auto;height:44px;}
+#top_bar{height:auto; }
+#logo_content{width:100%; margin-left:0px; margin-top:5px;}
+#main_box{width:100%; margin:auto;}
+#right_box{ width:100%;}
+#content1{ width:100%;}
+.head2{width:95%;}
+.sub_content{ width:93%;}
+.form{width:100%;}
+.profilebox{width:100%;height:auto;  padding:0px;}
+.profileimg{width:90%; height:auto;}
+.profileimg img{ width:100%;}
+.profileinfobox{width:100%;height:auto;}
+.profiledatabox{width:100%;height:auto;float:left;margin-left:0px;}
+.profilecontent{width:100%;height:auto;margin-left:0px;}
+.profiledata{width:100%;padding:0px;}
+}	
+
+@media (min-width:601px) and (max-width:850px){
+.mobile_menu2{ display:block; position:absolute; z-index:99; top:15px; left:10px;}	
+#logo{ width:40%; margin:auto;}
+#logo img{ width:100%;}
+.mobile_menu1{ display:block;}
+.destop_menu1{ display:none;}
+#top_box{width:100%;margin:auto;height:44px;}
+#top_bar{height:auto; }
+#logo_content{width:100%; margin-left:0px; margin-top:0px;}
+#main_box{width:100%; margin:auto;}
+#right_box{ width:100%;}
+#content1{ width:100%;}
+.head2{width:90%;}
+.sub_content{ width:93%;}
+.form{width:100%;}
+.profilebox{width:100%;height:auto; padding:0px;}
+.profileimg{width:100%; height:auto;}
+.profileimg img{ width:90%;}
+.profileinfobox{width:100%;height:auto;}
+.profiledatabox{width:100%;height:auto;float:left;margin-left:0px;}
+.profilecontent{width:100%;height:auto;margin-left:0px;}
+.profiledata{width:100%;padding:0px;}
+}
+
+@media (min-width:851px) {
+.mobile_menu2{ display:none;}
+#name_content{ width:1100px;}
+#logo{ width:250px; height:60px; float:left;}
+.mobile_menu1{ display:none;}
+.destop_menu1{ display:block;}
+#top_box{width:1100px;margin:auto;height:44px;}
+#top_bar{height:80px; }
+#logo_content{width:800px; margin-left:10px; margin-top:10px;}
+#main_box{width:1100px; margin:auto;}
+#right_box{ width:1100px;}
+#content1{ width:1098px;}
+.head2{width:1078px;}
+.sub_content{ width:97%;}
+.form{width:250px;}
+.profilebox{width:1070px;height:100px; padding: 10px;}
+.profileimg{width:100px; height:100px;}
+.profileinfobox{width:400px;height:100px;}
+.profiledatabox{width:450px;height:80px;float:left;margin-left:60px;}
+.profilecontent{width:940px;height:100px;}
+.profiledata{width:204px;padding:10px;}
+}
+

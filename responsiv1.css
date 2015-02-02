@@ -1,0 +1,63 @@
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+@media (min-width:200px) and (max-width:600px) {
+.mobile_menu2{ display:block; position:absolute; z-index:99; top:15px; left:10px;}
+#name_content{ width:92%;}
+#logo{ width:60%; margin:auto;}
+#logo img{ width:100%;}
+.mobile_menu1{ display:block;}
+.destop_menu1{ display:none;}
+#content_box{ width:100%; margin:auto;}
+#content_right{ width:92%;margin-left:1%;}
+#content_rightbox1{ width:100%; height:auto; float:left;}
+#content_rightbox2{ width:100%; margin-left:0px;}
+.student_box{ width:90%; padding:10px;}
+.log_out{ margin-left:43%; top:122px;}
+#footer_content{ width:90%;}
+.boc5{width:97%; height:300px;}
+.message_box{width:100%; height:auto; float: left; background: #fff; margin-top:15px;border: 1px solid #ccc;}
+}	
+
+@media (min-width:601px) and (max-width:850px){
+.mobile_menu2{ display:block; position:absolute; z-index:99; top:15px; left:10px;}	
+#name_content{ width:92%;}
+#logo{ width:40%; margin:auto;}
+#logo img{ width:100%;}
+.mobile_menu1{ display:block;}
+.destop_menu1{ display:none;}
+#content_box{ width:100%; margin:auto;}
+#content_right{ width:92%}
+#content_rightbox1{ width:100%; height:auto; float:left;}
+#content_rightbox2{ width:100%; margin-left:0px;}
+.student_box{ width:90%; padding:10px;}
+.log_out{ margin-left:70%; top:135px;}
+#footer_content{ width:90%;}
+.boc5{width:97%; height:300px;}
+.message_box{width:100%; height:auto; float: left; background: #fff; margin-top:15px;border: 1px solid #ccc;}
+}
+
+@media (min-width:851px) {
+.mobile_menu2{ display:none;}
+#name_content{ width:1100px;}
+#logo{ width:150px; height:auto; float:left;}
+.mobile_menu1{ display:none;}
+.destop_menu1{ display:block;}
+#content_box{ width:1100px; margin:auto;}
+#content_right{ width:1078px;}
+#content_rightbox1{ width:770px; height:auto; float:left;}
+#content_rightbox2{ width:280px; margin-left:20px;}
+.student_box{ width:270px; padding:10px;}
+.log_out{ margin-left:950px; top:127px;}
+#footer_content{ width:1080px;}
+.boc5{width:331px; height:300px;}
+.message_box{width: 770px; height:auto; float: left; background: #fff; margin-top:15px;border: 1px solid #ccc;}
+}
+

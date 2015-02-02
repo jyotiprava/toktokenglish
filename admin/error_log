@@ -1,0 +1,77 @@
+[18-Nov-2014 08:18:20 UTC] PHP Warning:  include_once(function.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/toktoken/public_html/demo/admin/home.php on line 2
+[18-Nov-2014 08:18:20 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/toktoken/public_html/demo/admin/home.php on line 2
+[18-Nov-2014 08:18:20 UTC] PHP Fatal error:  Call to undefined function getname() in /home/toktoken/public_html/demo/admin/leftbar.php on line 9
+[18-Nov-2014 08:18:28 UTC] PHP Warning:  include_once(function.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/toktoken/public_html/demo/admin/home.php on line 2
+[18-Nov-2014 08:18:28 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'function.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/toktoken/public_html/demo/admin/home.php on line 2
+[18-Nov-2014 08:18:28 UTC] PHP Fatal error:  Call to undefined function getname() in /home/toktoken/public_html/demo/admin/leftbar.php on line 9
+[18-Nov-2014 08:18:31 UTC] PHP Fatal error:  Call to undefined function getname() in /home/toktoken/public_html/demo/admin/leftbar.php on line 9
+[18-Nov-2014 09:56:14 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/index.php on line 75
+[18-Nov-2014 09:56:20 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/index.php on line 75
+[18-Nov-2014 12:28:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/toktoken/public_html/demo/admin/function.php:4) in /home/toktoken/public_html/demo/admin/login.php on line 12
+[18-Nov-2014 13:09:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/toktoken/public_html/demo/admin/login.php:12) in /home/toktoken/public_html/demo/admin/login.php on line 13
+[19-Nov-2014 05:25:04 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/toktoken/public_html/demo/admin/index.php on line 51
+[19-Nov-2014 05:26:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/toktoken/public_html/demo/admin/index.php on line 51
+[19-Nov-2014 05:31:28 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/toktoken/public_html/demo/admin/index.php on line 51
+[19-Nov-2014 05:31:59 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/toktoken/public_html/demo/admin/index.php on line 51
+[19-Nov-2014 05:32:31 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/toktoken/public_html/demo/admin/index.php on line 51
+[19-Nov-2014 06:59:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/toktoken/public_html/demo/admin/course_insert.php:10) in /home/toktoken/public_html/demo/admin/course_insert.php on line 14
+[19-Nov-2014 07:34:26 UTC] PHP Warning:  include_once(topbar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 31
+[19-Nov-2014 07:34:26 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'topbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 31
+[19-Nov-2014 07:34:26 UTC] PHP Warning:  include_once(menubar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 35
+[19-Nov-2014 07:34:26 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'menubar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 35
+[19-Nov-2014 07:36:52 UTC] PHP Warning:  include_once(topbar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 31
+[19-Nov-2014 07:36:52 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'topbar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 31
+[19-Nov-2014 07:36:52 UTC] PHP Warning:  include_once(menubar.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 35
+[19-Nov-2014 07:36:52 UTC] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'menubar.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/toktoken/public_html/demo/admin/forgotpassword.php on line 35
+[19-Nov-2014 11:14:29 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/toktoken/public_html/demo/admin/teacher_report.php on line 2
+[19-Nov-2014 11:14:56 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/toktoken/public_html/demo/admin/teacher_report.php on line 2
+[20-Nov-2014 09:40:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:43:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:44:00 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:44:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:53:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:53:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:54:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 09:58:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 10:01:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 6
+[20-Nov-2014 10:23:57 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 7
+[20-Nov-2014 10:32:25 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 7
+[20-Nov-2014 10:41:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 7
+[20-Nov-2014 10:42:22 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 7
+[20-Nov-2014 10:44:08 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 9
+[20-Nov-2014 10:45:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 9
+[20-Nov-2014 10:46:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 9
+[20-Nov-2014 10:47:14 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 9
+[20-Nov-2014 10:47:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 9
+[20-Nov-2014 10:48:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/toktoken/public_html/demo/admin/ajax_status.php on line 9
+[20-Nov-2014 11:16:13 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/toktoken/public_html/demo/admin/teacher_status.php on line 3
+[20-Nov-2014 11:40:12 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/toktoken/public_html/demo/admin/student_status.php on line 3
+[20-Nov-2014 11:40:23 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/toktoken/public_html/demo/admin/student_status.php on line 3
+[20-Nov-2014 11:53:03 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 11:53:11 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:10:41 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:10:43 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:10:47 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:11:29 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:11:32 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:11:35 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:12:34 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:12:40 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 67
+[20-Nov-2014 12:24:10 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:24:15 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:24:18 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:24:21 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:24:36 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:25:02 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:25:06 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:26:14 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:26:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:27:06 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:27:09 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:27:48 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:28:36 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:28:46 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:28:53 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[20-Nov-2014 12:30:54 UTC] PHP Parse error:  syntax error, unexpected $end in /home/toktoken/public_html/demo/admin/student_status.php on line 72
+[03-Jan-2015 10:07:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/toktoken/public_html/demo/admin/ajax_alot.php on line 39
+[03-Jan-2015 10:24:39 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/toktoken/public_html/demo/admin/ajax_alot.php on line 51
